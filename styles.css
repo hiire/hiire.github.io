@@ -1,0 +1,22 @@
+body {
+	box-sizing: border-box;
+	padding: 5px;
+	display: flex;
+	margin: 0;
+	height: 100%;
+	background-image: linear-gradient(#ccfbc1 2px, transparent 2px),
+		linear-gradient(to right, #ccfbc1 2px, #ffffff 2px);
+	background-size: 30px 30px;
+	font-family: "DotGothic16", sans-serif;
+}
+
+/*TEMPORARY CODE FOR THE WIP MESSAGE*/
+body {
+	align-items: center;
+	justify-content: center;
+	vertical-align: middle;
+}
+
+img {
+	max-width: 75%;
+}
